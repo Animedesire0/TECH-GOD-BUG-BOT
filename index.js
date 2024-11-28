@@ -1,6 +1,6 @@
 //base by Tech-God
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @techgod143
+//YouTube: 
 //Instagram: techgod143
 //Telegram: t.me/techgod143
 //GitHub: @techgod143
